@@ -6,7 +6,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-vieira-90a28a206/)
 
-![Kaique Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquevms&layout=compact)
 
 ### Technologies I use in my day
 
