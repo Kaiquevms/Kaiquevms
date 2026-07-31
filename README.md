@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kaique Vieira 👋🏼
 
-- 🔭 I currently work at the company Matsuko in the production area.
-- 🌱 I'm currently studying systems analysis and development at Facens University.
+- 🔭 I currently work at the company Tempermax in the TI area.
+- 🌱 I'm currently studying systems analysis and development at Cruzeiro do Sul University.
 - 👯 I'm looking to collaborate on projects.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-vieira-90a28a206/)
